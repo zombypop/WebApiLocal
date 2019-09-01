@@ -1,0 +1,6 @@
+C:\Users\Administrador\Source\Repos\WebApiLocal\DTO\bin\Debug\DTO.dll
+C:\Users\Administrador\Source\Repos\WebApiLocal\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrador\Source\Repos\WebApiLocal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Source\Repos\WebApiLocal\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\WebApiLocal\DTO\obj\Debug\DTO.dll
+C:\Users\Administrador\Source\Repos\WebApiLocal\DTO\obj\Debug\DTO.pdb
